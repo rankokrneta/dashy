@@ -190,13 +190,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/royshreyaaa">
-            <img src="https://avatars.githubusercontent.com/u/88572557?v=4" width="80;" alt="royshreyaaa"/>
-            <br />
-            <sub><b>Shreya Roy</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/StevKast">
             <img src="https://avatars.githubusercontent.com/u/17804308?v=4" width="80;" alt="StevKast"/>
             <br />
@@ -215,6 +208,13 @@
             <img src="https://avatars.githubusercontent.com/u/50461557?v=4" width="80;" alt="icy-comet"/>
             <br />
             <sub><b>Aniket Teredesai</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jnach">
+            <img src="https://avatars.githubusercontent.com/u/33467747?v=4" width="80;" alt="jnach"/>
+            <br />
+            <sub><b>Jnach</b></sub>
         </a>
     </td></tr>
 </table>
